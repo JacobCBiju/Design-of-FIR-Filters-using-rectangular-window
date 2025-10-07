@@ -10,6 +10,7 @@
   PC Installed with SCILAB 
 
 # PROGRAM 
+```
 clc;
 clear;
 close;
@@ -38,7 +39,7 @@ plot(fr, 20*log10(abs(h_freq)));
 xlabel("Normalized Frequency");
 ylabel("Magnitude (dB)");
 title("Frequency Response (dB) of FIR Low Pass Filter");
-
+```
 
 # OUTPUT
 
